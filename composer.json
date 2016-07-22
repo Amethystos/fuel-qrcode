@@ -1,0 +1,20 @@
+{
+	"name": "steadweb/fuel-qrcode",
+	"type": "fuel-package",
+	"description": "Export QR code",
+	"keywords": ["qrcode", "qr"],
+	"homepage": "https://github.com/steadweb/fuel-qrcode",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Luke Steadman",
+			"email": "ljsteadman@gmail.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "qrcode"
+	}
+}
