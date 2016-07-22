@@ -1,5 +1,5 @@
 {
-	"name": "fuel/qrcode",
+	"name": "fuelqr/qrcode",
 	"type": "fuel-package",
 	"description": "Export QR code",
 	"keywords": ["qrcode", "qr"],
