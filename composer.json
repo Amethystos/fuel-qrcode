@@ -1,5 +1,5 @@
 {
-	"name": "steadweb/fuel-qrcode",
+	"name": "fuelphp/qrcode",
 	"type": "fuel-package",
 	"description": "Export QR code",
 	"keywords": ["qrcode", "qr"],
